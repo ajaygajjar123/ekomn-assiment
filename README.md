@@ -1,7 +1,7 @@
 ## Setup 
 
 1. composer install 
-2. Copy .env.example 
+2. Copy .env.example if .env does not already exist.
 → .env and set: 
   - APP_URL (public HTTPS) 
   - SHOPIFY_API_KEY, SHOPIFY_API_SECRET - SHOPIFY_SCOPES, SHOPIFY_REDIRECT_URI, SHOPIFY_API_VERSION 
