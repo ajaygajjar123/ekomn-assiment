@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Laravel cache & logs
+/storage/
+vendor/
+
+# Environment file
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

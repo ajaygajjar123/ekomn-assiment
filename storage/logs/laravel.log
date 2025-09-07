@@ -1,0 +1,1638 @@
+[2025-09-07 10:24:20] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:20] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:21] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:21] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:21] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:22] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:22] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:23] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:24] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:24:24] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:05] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:06] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:06] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:07] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:07] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:08] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:08] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:09] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:09] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:31:10] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
+[2025-09-07 10:32:14] local.INFO: array (
+  'host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'user-agent' => 
+  array (
+    0 => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  ),
+  'accept' => 
+  array (
+    0 => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  ),
+  'accept-encoding' => 
+  array (
+    0 => 'gzip, deflate, br, zstd',
+  ),
+  'accept-language' => 
+  array (
+    0 => 'en-US,en;q=0.9',
+  ),
+  'cookie' => 
+  array (
+    0 => 'abuse_interstitial=f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'priority' => 
+  array (
+    0 => 'u=0, i',
+  ),
+  'referer' => 
+  array (
+    0 => 'https://admin.shopify.com/',
+  ),
+  'sec-ch-ua' => 
+  array (
+    0 => '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
+  ),
+  'sec-ch-ua-mobile' => 
+  array (
+    0 => '?0',
+  ),
+  'sec-ch-ua-platform' => 
+  array (
+    0 => '"Windows"',
+  ),
+  'sec-fetch-dest' => 
+  array (
+    0 => 'iframe',
+  ),
+  'sec-fetch-mode' => 
+  array (
+    0 => 'navigate',
+  ),
+  'sec-fetch-site' => 
+  array (
+    0 => 'cross-site',
+  ),
+  'sec-fetch-storage-access' => 
+  array (
+    0 => 'active',
+  ),
+  'upgrade-insecure-requests' => 
+  array (
+    0 => '1',
+  ),
+  'x-forwarded-for' => 
+  array (
+    0 => '2409:40c1:29:e926:6475:c603:8ee8:ecca',
+  ),
+  'x-forwarded-host' => 
+  array (
+    0 => 'f9ff2ff5d03c.ngrok-free.app',
+  ),
+  'x-forwarded-proto' => 
+  array (
+    0 => 'https',
+  ),
+)  
